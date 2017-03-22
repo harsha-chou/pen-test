@@ -1,0 +1,22 @@
+Privilege escalation:
+  vertical
+  horizontal
+Service Accounts:
+stegonagraphy:
+  alternate data streams
+  ads spy 
+cover tracks:
+  stop auditing 
+  delete log files(log flutty)
+  
+  Flooding:
+    mac flooding
+      urcinia,macoff
+  dhcp startvation
+  rogue server
+  ARP Poisoning
+  mac spoofing
+  DNS spoofing
+  cache poisoning
+  proxy server DNS poisoning
+  nifty spy creation tool
